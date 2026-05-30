@@ -14,7 +14,3 @@ Este repositorio contiene un motor analítico completo desarrollado en **R** par
    * **Vega ($\nu$):** Exposición ante fluctuaciones en la volatilidad.
    * **Theta ($\Theta$):** Decaimiento temporal diario (*time decay*).
    * **Rho ($\rho$):** Sensibilidad ante variaciones en la tasa de interés doméstica.
-
-## 📂 Estructura del Repositorio
-* `Volatilidad implicita y letras griegas.R`: Script optimizado y vectorizado con la implementación de las funciones y el procesamiento del portafolio.
-* `Volatilidad implicita y letras griegas.pdf`: Documento metodológico detallado que explica los fundamentos teóricos, fórmulas matemáticas en $\LaTeX$ y la interpretación financiera de los resultados.
